@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 
 ## Usage
 
-#### Import NMEA data from file and export to an KML file.
+#### XXX
 
 ```python
 # This command will create a default output file called wordlist.txt using all permutations of the input words
