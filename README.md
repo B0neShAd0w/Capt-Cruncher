@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 
 ## Usage
 
-#### XXX
+#### Create a custom wordlist using various options
 
 ```python
 # This command will create a default output file called wordlist.txt using all permutations of the input words
