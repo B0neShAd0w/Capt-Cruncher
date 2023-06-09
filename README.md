@@ -38,7 +38,7 @@ python Capt-Cruncher.py --input apple pear orange --append 123
 python Capt-Cruncher.py --input apple pear orange --prefix abc
 
 # This command will prefix, append, and add the specified separator to each result and output to a file called my_wordlist.txt
-python Capt-Cruncher.py --input apple pear orange --prefix abc --append 123! --separator - --output my_wordlist.txt
+python Capt-Cruncher.py --input apple pear orange --prefix abc --append 123! --separator _ --output my_wordlist.txt
 ```
 
 ## Planned features
