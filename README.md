@@ -1,5 +1,5 @@
 # Capt. Cruncher
-Capt. Cruncher is a Python script for generating custom wordlists. \
+Capt. Cruncher is a Python script for generating custom wordlists based on an input of words, there are options to append and prefix characters to each result. \
 This has purely been created for use with CTF's.
 
 ![Screenshot 2023-06-09 150542](https://github.com/B0neShAd0w/Capt-Cruncher/assets/117080369/976e8506-02f0-41d7-abda-6993b6cdc04e)
@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 
 ## Usage
 
-#### Create a custom wordlist using various options
+#### Create a custom wordlist using various options.
 
 ```python
 # This command will create a default output file called wordlist.txt using all permutations of the input words
