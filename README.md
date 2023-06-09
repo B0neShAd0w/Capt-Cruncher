@@ -29,7 +29,7 @@ python Capt-Cruncher.py --input apple pear orange
 python Capt-Cruncher.py --input apple pear orange --output dictionary.txt
 
 # This command will add a specified separator between each of the input words
-python Capt-Cruncher.py --input apple pear orange --separator _
+python Capt-Cruncher.py --input apple pear orange --separator -
 
 # This command will append the specified to each result
 python Capt-Cruncher.py --input apple pear orange --append 123
