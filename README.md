@@ -14,7 +14,7 @@ cd Capt-Cruncher
 
 #### Install requirements
 ```shell
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
