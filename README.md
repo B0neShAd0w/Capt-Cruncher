@@ -23,22 +23,22 @@ pip3 install -r requirements.txt
 
 ```python
 # This command will create a default output file called wordlist.txt using all permutations of the input words
-python Capt-Cruncher.py --input apple pear orange
+python3 Capt-Cruncher.py --input apple pear orange
 
 # This command will create an output file called dictionary.txt using all permutations of the input words
-python Capt-Cruncher.py --input apple pear orange --output dictionary.txt
+python3 Capt-Cruncher.py --input apple pear orange --output dictionary.txt
 
 # This command will add a specified separator between each of the input words
-python Capt-Cruncher.py --input apple pear orange --separator -
+python3 Capt-Cruncher.py --input apple pear orange --separator -
 
 # This command will append the specified to each result
-python Capt-Cruncher.py --input apple pear orange --append 123
+python3 Capt-Cruncher.py --input apple pear orange --append 123
 
 # This command will prefix each result with the specified
-python Capt-Cruncher.py --input apple pear orange --prefix abc
+python3 Capt-Cruncher.py --input apple pear orange --prefix abc
 
 # This command will prefix, append, and add the specified separator to each result and output to a file called my_wordlist.txt
-python Capt-Cruncher.py --input apple pear orange --prefix abc --append 123! --separator _ --output my_wordlist.txt
+python3 Capt-Cruncher.py --input apple pear orange --prefix abc --append 123! --separator _ --output my_wordlist.txt
 ```
 
 ## Planned features
