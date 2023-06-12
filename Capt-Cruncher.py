@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
 # Parse command line arguments
 parser = argparse.ArgumentParser(description='Generate word lists based on input words.')
-parser.add_argument('--input', metavar='word(s)', type=str, nargs='+', help='supply words separated by a separator')
+parser.add_argument('--input', metavar='word(s)', type=str, nargs='+', help='supply words separated by a space')
 parser.add_argument('--separator', metavar='sep', type=str, default=None, help='separator between each input words')
 parser.add_argument('--append', metavar='char(s)', type=str, help='append char(s) to each result')
 parser.add_argument('--prefix', metavar='char(s)', type=str, help='prefix char(s) to the each result')
