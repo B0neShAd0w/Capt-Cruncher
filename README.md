@@ -45,5 +45,3 @@ python3 Capt-Cruncher.py --input apple pear orange --prefix abc --append 123! --
 
 - [X] None currently
 
-## Contact
-Feel free to contact me on <a href="https://twitter.com/B0neShad0w">Twitter</a>
